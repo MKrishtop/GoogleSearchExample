@@ -1,0 +1,540 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - office",
+    "totalResults": "322000000",
+    "searchTerms": "office",
+    "count": 10,
+    "startIndex": 20,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "005348304652098354227:msmszw3hbvw"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - office",
+    "totalResults": "322000000",
+    "searchTerms": "office",
+    "count": 10,
+    "startIndex": 10,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "005348304652098354227:msmszw3hbvw"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - office",
+    "totalResults": "322000000",
+    "searchTerms": "office",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "005348304652098354227:msmszw3hbvw"
+   }
+  ]
+ },
+ "context": {
+  "title": "AndroidDocs"
+ },
+ "searchInformation": {
+  "searchTime": 0.492125,
+  "formattedSearchTime": "0.49",
+  "totalResults": "322000000",
+  "formattedTotalResults": "322,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Office Lens comes to iPhone and Android - Office Blogs",
+   "htmlTitle": "\u003cb\u003eOffice\u003c/b\u003e Lens comes to iPhone and Android - \u003cb\u003eOffice\u003c/b\u003e Blogs",
+   "link": "https://blogs.office.com/2015/04/02/office-lens-comes-to-iphone-and-android/",
+   "displayLink": "blogs.office.com",
+   "snippet": "2 days ago ... Just over a year ago, we introduced Office Lens for Windows Phone—and over \nthat time the app has become one of the most popular free apps ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e Just over a year ago, we introduced \u003cb\u003eOffice\u003c/b\u003e Lens for Windows Phone—and over \u003cbr\u003e\nthat time the app has become one of the most popular free apps&nbsp;...",
+   "cacheId": "-rLmiN1XNMwJ",
+   "formattedUrl": "https://blogs.office.com/.../office-lens-comes-to-iphone-and-android/",
+   "htmlFormattedUrl": "https://blogs.\u003cb\u003eoffice\u003c/b\u003e.com/.../\u003cb\u003eoffice\u003c/b\u003e-lens-comes-to-iphone-and-android/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://officeblogswest.blob.core.windows.net/wp-content/2015/03/Office-Lens-FI.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "168",
+      "height": "300",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStXdCzVWa7u6oTShDClBrcRaO-FKHwf8QQr6Yg--whei7DeIwE0pACrJA"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "application-name": "Microsoft Office Blogs",
+      "msapplication-tilecolor": "#DA3b01",
+      "msapplication-square70x70logo": "OfficeBlog_SmallTile_70x70.png",
+      "msapplication-square150x150logo": "OfficeBlog_SquareTile_150x150.png",
+      "msapplication-wide310x150logo": "OfficeBlog_WideTile_310x150.png",
+      "msapplication-square310x310logo": "OfficeBlog_SmallTile_70x70.png",
+      "msapplication-notification": "frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=5; cycle=1",
+      "msvalidate.01": "A53E6A44CF20918CBE2EAB984657B046",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Office Lens comes to iPhone and Android - Office Blogs",
+      "og:description": "The power of Office Lens pocket scanning is now available for iPhone along with a preview for Android phones.",
+      "og:url": "https://blogs.office.com/2015/04/02/office-lens-comes-to-iphone-and-android/",
+      "og:site_name": "Office Blogs",
+      "article:published_time": "2015-04-02T09:00:22+00:00",
+      "article:modified_time": "2015-04-02T08:55:27+00:00",
+      "og:updated_time": "2015-04-02T08:55:27+00:00",
+      "og:image": "http://officeblogswest.blob.core.windows.net/wp-content/2015/03/Office-Lens-FI.png",
+      "ms.pgterm": "onenote"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Microsoft Office - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Microsoft \u003cb\u003eOffice\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Microsoft_Office",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Microsoft Office is an office suite of desktop applications, servers and services for \nMicrosoft Windows and OS X operating systems. It was first announced by Bill ...",
+   "htmlSnippet": "Microsoft \u003cb\u003eOffice\u003c/b\u003e is an \u003cb\u003eoffice\u003c/b\u003e suite of desktop applications, servers and services for \u003cbr\u003e\nMicrosoft Windows and OS X operating systems. It was first announced by Bill&nbsp;...",
+   "cacheId": "NflzZxkisgQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Microsoft_Office",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Microsoft_\u003cb\u003eOffice\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/0/03/Microsoft_Office_2013_Default_Screen.png/300px-Microsoft_Office_2013_Default_Screen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "134",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVV8TDEzEnFQ3mvp6NadOo6MGUD1BjY_GIMLMbQ9m0FXwOqL2qEfBsV5w"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office Depot & OfficeMax: Office Supplies and Furniture",
+   "htmlTitle": "\u003cb\u003eOffice\u003c/b\u003e Depot &amp; OfficeMax: \u003cb\u003eOffice\u003c/b\u003e Supplies and Furniture",
+   "link": "http://www.officedepot.com/",
+   "displayLink": "www.officedepot.com",
+   "snippet": "Shop Office Depot and OfficeMax for low prices on office supplies, paper, ink, \ntoner, technology and more. Office Depot and OfficeMax, now one company!",
+   "htmlSnippet": "Shop \u003cb\u003eOffice\u003c/b\u003e Depot and OfficeMax for low prices on \u003cb\u003eoffice\u003c/b\u003e supplies, paper, ink, \u003cbr\u003e\ntoner, technology and more. \u003cb\u003eOffice\u003c/b\u003e Depot and OfficeMax, now one company!",
+   "cacheId": "h0vl6mFYPEQJ",
+   "formattedUrl": "www.officedepot.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003eoffice\u003c/b\u003edepot.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.www.odcdn.com/images/us/od/brand.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "117",
+      "height": "49",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy1JJdUiRWR0VyRReD_9vWgRiqYzFEGsmRbKD1d82iaVacR2Cgu8runA"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=471037434",
+      "og:title": "Office Depot & OfficeMax: Office Supplies and Furniture",
+      "og:description": "Shop Office Depot and OfficeMax for low prices on office supplies, paper, ink, toner, technology and more. Office Depot and OfficeMax, now one company!",
+      "og:url": "http://www.officedepot.com/",
+      "og:image": "http://static.www.odcdn.com/images/us/od/brand.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Productivity software - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Productivity software - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Productivity_software",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Productivity software (sometimes called personal productivity software or office \nproductivity software) is application software dedicated to producing information,\n ...",
+   "htmlSnippet": "Productivity software (sometimes called personal productivity software or \u003cb\u003eoffice\u003c/b\u003e \u003cbr\u003e\nproductivity software) is application software dedicated to producing information,\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "W14SfpJniqsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Productivity_software",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Productivity_software",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/LibreOffice_Writer_3_3_2_en.png/220px-LibreOffice_Writer_3_3_2_en.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "130",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRu2rdDJGH2eHlMLixgREsVM8xC05ixZbbbxe23jBt-CofFjCZLOA_2UW4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Microsoft Office Mobile - Android Apps on Google Play",
+   "htmlTitle": "Microsoft \u003cb\u003eOffice\u003c/b\u003e Mobile - Android Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehub&hl=en",
+   "displayLink": "play.google.com",
+   "snippet": "Microsoft Office Mobile is the official Office companion optimized for your Android \nphone. You can access, view and edit your Microsoft Word, Microsoft Excel and ...",
+   "htmlSnippet": "Microsoft \u003cb\u003eOffice\u003c/b\u003e Mobile is the official \u003cb\u003eOffice\u003c/b\u003e companion optimized for your Android \u003cbr\u003e\nphone. You can access, view and edit your Microsoft Word, Microsoft Excel and&nbsp;...",
+   "cacheId": "AGSvdH-_A1sJ",
+   "formattedUrl": "https://play.google.com/store/apps/details?id...office.officehub...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id...\u003cb\u003eoffice\u003c/b\u003e.\u003cb\u003eoffice\u003c/b\u003ehub...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://lh4.ggpht.com/SxYG2EEOdM6hj4q1tJqAp7hhbZ-ZPwVmE8pvCs71nqj7h0EDlkvQesS8wu4wTMFHCA=w300"
+     }
+    ],
+    "organization": [
+     {
+      "url": "/store/apps/developer?id=Microsoft+Corporation",
+      "name": "Microsoft Corporation"
+     },
+     {
+      "name": "Android"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR56S41tUEAh-WvzyC3X1gJhNYcpL_WKF_PjdEVMoL3sS3q2GUWYVg0uGc"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "3.9944043159484863",
+      "ratingcount": "360279"
+     }
+    ],
+    "offer": [
+     {
+      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehub&rdid=com.microsoft.office.officehub&rdot=1&feature=md",
+      "price": "0"
+     }
+    ],
+    "mobileapplication": [
+     {
+      "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehub",
+      "logoimageurl": "https://www.gstatic.com/android/market_images/plus/play_stream_logo.png",
+      "logohrefurl": "https://play.google.com",
+      "image": "https://lh4.ggpht.com/SxYG2EEOdM6hj4q1tJqAp7hhbZ-ZPwVmE8pvCs71nqj7h0EDlkvQesS8wu4wTMFHCA=w300",
+      "name": "Microsoft Office Mobile",
+      "genre": "Productivity",
+      "screenshot": "https://lh6.ggpht.com/CgJrrT3kIqspORlqO8yOPZZl923OHCOHI_VwTwg_wQdsUqmPJK9ncCnlpGHikeMAGvE=h310",
+      "description": "Microsoft Office Mobile is the official Office companion optimized for your Android phone. You can access, view and edit your Microsoft Word, Microsoft Excel and Microsoft PowerPoint documents...",
+      "datepublished": "January 25, 2015",
+      "filesize": "27M",
+      "numdownloads": "10,000,000 - 50,000,000",
+      "softwareversion": "15.0.3722.2000",
+      "operatingsystems": "4.0 and up",
+      "contentrating": "Everyone"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office | Facebook",
+   "htmlTitle": "\u003cb\u003eOffice\u003c/b\u003e | Facebook",
+   "link": "https://www.facebook.com/Office",
+   "displayLink": "www.facebook.com",
+   "snippet": "Office. 1645760 likes · 5869 talking about this. Giving ideas room to grow and \nbecome more than you could have ever imagined.",
+   "htmlSnippet": "\u003cb\u003eOffice\u003c/b\u003e. 1645760 likes · 5869 talking about this. Giving ideas room to grow and \u003cbr\u003e\nbecome more than you could have ever imagined.",
+   "cacheId": "Zx_zTIDvCWcJ",
+   "formattedUrl": "https://www.facebook.com/Office",
+   "htmlFormattedUrl": "https://www.facebook.com/\u003cb\u003eOffice\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/16054_10152322858025370_676140557_n.jpg?oh=8ac8cd1d7e680077f321f6e1e968867e&oe=55B1889A&__gda__=1436486186_1080805a2d4e8ca5db2619d454908a33"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Office"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "144",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3b8RWTb79Ez_5sHUwb9rT7zovPdWsprF8NA0N53AuCST4lvPxOCP4Fmo"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Office",
+      "og:type": "other",
+      "og:url": "https://www.facebook.com/Office",
+      "og:site_name": "Facebook",
+      "og:image": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/16054_10152322858025370_676140557_n.jpg?oh=8ac8cd1d7e680077f321f6e1e968867e&oe=55B1889A&__gda__=1436486186_1080805a2d4e8ca5db2619d454908a33",
+      "og:description": "Giving ideas room to grow and become more than you could have ever imagined."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The next chapter of Office on Windows - Office Blogs",
+   "htmlTitle": "The next chapter of \u003cb\u003eOffice\u003c/b\u003e on Windows - \u003cb\u003eOffice\u003c/b\u003e Blogs",
+   "link": "http://blogs.office.com/2015/02/04/next-chapter-office-windows/",
+   "displayLink": "blogs.office.com",
+   "snippet": "Feb 4, 2015 ... Today's post was written by Julia White, general manager for the Office Product \nManagement team. Two weeks ago we shared our plans to ...",
+   "htmlSnippet": "Feb 4, 2015 \u003cb\u003e...\u003c/b\u003e Today&#39;s post was written by Julia White, general manager for the \u003cb\u003eOffice\u003c/b\u003e Product \u003cbr\u003e\nManagement team. Two weeks ago we shared our plans to&nbsp;...",
+   "cacheId": "kbnf7qWYd4kJ",
+   "formattedUrl": "blogs.office.com/2015/02/04/next-chapter-office-windows/",
+   "htmlFormattedUrl": "blogs.\u003cb\u003eoffice\u003c/b\u003e.com/2015/02/04/next-chapter-\u003cb\u003eoffice\u003c/b\u003e-windows/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://officeblogswest.blob.core.windows.net/wp-content/2015/01/NextChapterOffice.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBLFrEBsNYKHsVzBG-jorbcVawVmz-AEf8qC17pk791-vcx07XNs0a5Ert"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "application-name": "Microsoft Office Blogs",
+      "msapplication-tilecolor": "#DA3b01",
+      "msapplication-square70x70logo": "OfficeBlog_SmallTile_70x70.png",
+      "msapplication-square150x150logo": "OfficeBlog_SquareTile_150x150.png",
+      "msapplication-wide310x150logo": "OfficeBlog_WideTile_310x150.png",
+      "msapplication-square310x310logo": "OfficeBlog_SmallTile_70x70.png",
+      "msapplication-notification": "frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=http://blogs.office.com/feed&id=5; cycle=1",
+      "msvalidate.01": "A53E6A44CF20918CBE2EAB984657B046",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "The next chapter of Office on Windows - Office Blogs",
+      "og:description": "Two weeks ago we shared our plans to introduce new, Universal Office apps for Windows 10 including Word, Excel, PowerPoint, Outlook and OneNote, that can be installed on PCs, tablets and phones. Today, we’re excited to announce that Word, Excel and PowerPoint are now available for technical preview on PCs, laptops and tablets running the Windows 10 Technical Preview! In the coming weeks, we’ll open up our preview for the…",
+      "og:url": "http://blogs.office.com/2015/02/04/next-chapter-office-windows/",
+      "og:site_name": "Office Blogs",
+      "article:published_time": "2015-02-04T07:30:16+00:00",
+      "article:modified_time": "2015-02-12T00:20:33+00:00",
+      "og:updated_time": "2015-02-12T00:20:33+00:00",
+      "og:image": "http://officeblogswest.blob.core.windows.net/wp-content/2015/01/NextChapterOffice.png",
+      "ms.pgterm": "news"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office - Microsoft Download Center",
+   "htmlTitle": "\u003cb\u003eOffice\u003c/b\u003e - Microsoft Download Center",
+   "link": "https://www.microsoft.com/en-us/download/office.aspx",
+   "displayLink": "www.microsoft.com",
+   "snippet": "Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint File Formats. \nInstall this compatibility pack if you would like to open, edit, and save ...",
+   "htmlSnippet": "Microsoft \u003cb\u003eOffice\u003c/b\u003e Compatibility Pack for Word, Excel, and PowerPoint File Formats. \u003cbr\u003e\nInstall this compatibility pack if you would like to open, edit, and save&nbsp;...",
+   "cacheId": "qODkm_LbHuwJ",
+   "formattedUrl": "https://www.microsoft.com/en-us/download/office.aspx",
+   "htmlFormattedUrl": "https://www.microsoft.com/en-us/download/\u003cb\u003eoffice\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://c.s-microsoft.com/en-us/CMSImages/Ofc365CM_Launch_1027_70x70_EN_US.png?version=f7926d98-3da3-5620-ce64-c5d3bb8e708f"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "68",
+      "height": "68",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcjBY_cX4J6Eq3Y5GEDyjKy69Y_w8O6lpZngbhy5Ne3fC0XFOYAYqd"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "application-name": "Microsoft Downloads",
+      "msapplication-tilecolor": "#00188f",
+      "msapplication-tileimage": "/global/ImageStore/PublishingImages/logos/144x144/microsoft_symbol_clr_144x144.png",
+      "title": "Office - Microsoft Download Center",
+      "correlationvector": "4zkXGOccA02RWsuN.1",
+      "mscomcontentlocale": "en-us",
+      "ms.pagetype": "productcategory",
+      "ms.sitesec": "product category",
+      "ms.pltfrm": "CMS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Microsoft Office For Home, Students, & Professionals - Microsoft Store",
+   "htmlTitle": "Microsoft \u003cb\u003eOffice\u003c/b\u003e For Home, Students, &amp; Professionals - Microsoft Store",
+   "link": "http://www.microsoftstore.com/store/msusa/en_US/cat/All-Office/categoryID.69403900",
+   "displayLink": "www.microsoftstore.com",
+   "snippet": "Maximize your potential with Microsoft Office 2013 for home, students, \nprofessionals, and Mac computers. Or subscribe to Office 365 at the Microsoft \nStore.",
+   "htmlSnippet": "Maximize your potential with Microsoft \u003cb\u003eOffice\u003c/b\u003e 2013 for home, students, \u003cbr\u003e\nprofessionals, and Mac computers. Or subscribe to \u003cb\u003eOffice\u003c/b\u003e 365 at the Microsoft \u003cbr\u003e\nStore.",
+   "cacheId": "PqXCaX70yu4J",
+   "formattedUrl": "www.microsoftstore.com/store/.../en...Office/categoryID.69403900",
+   "htmlFormattedUrl": "www.microsoftstore.com/store/.../en...\u003cb\u003eOffice\u003c/b\u003e/categoryID.69403900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dri2.img.digitalrivercontent.net/Storefront/Company/msintl/images/English/en-INTL-Office-365-Personal-QQ2-00031/en-INTL-M-Office-365-Personal-QQ2-00031-mnco.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "232",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK0VKOUSMHha8C6Wdm23-MEhePfwogO2G0j7nN_Zhi0vi66DrpcmXDapKn"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.8"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.6"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.5"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.8"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.8"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.6"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.5"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "2.2"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "2.8"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "2.4"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "2.2"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "2.8"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "2.3"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "2.1"
+     },
+     {
+      "bestrating": "5",
+      "ratingvalue": "3.4"
+     }
+    ],
+    "metatags": [
+     {
+      "p:domain_verify": "dae53b83f3619f2af0e2273dd9e83a83",
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, width=device-width",
+      "og:title": "Microsoft Office For Home, Students, & Professionals - Microsoft Store",
+      "og:description": "Maximize your potential with Microsoft Office 2013 for home, students, professionals, and Mac computers. Or subscribe to Office 365 at the Microsoft Store.",
+      "og:type": "website",
+      "og:site_name": "Microsoft Store",
+      "og:url": "http://www.microsoftstore.com/store/msusa/en_US/cat/All-Office/categoryID.69403900",
+      "application-name": "Microsoft Store",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-square70x70logo": "//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/meta_logo_tiny.png",
+      "msapplication-square150x150logo": "//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/meta_logo_square.png",
+      "msapplication-wide310x150logo": "//dri1.img.digitalrivercontent.net/Storefront/Site/mscommon/cm/images/common_images/meta_logo_wide.png",
+      "ms.siteorg": "Retail",
+      "ms.sitename": "Store",
+      "ms.pagetype": "category",
+      "ms.sup_ln": "en-us",
+      "ms.lang": "en",
+      "ms.loc": "us",
+      "wt.ti": "Microsoft Office For Home, Students, & Professionals - Microsoft Store",
+      "dcsext.mkt_langloc": "us: en-us",
+      "dcsext.geo": "us",
+      "dcsext.langgeo": "en-us",
+      "dcsext.pagetype": "category"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Shoes & Footwear Online High Street Fashion Shoes at Office UK",
+   "htmlTitle": "Shoes &amp; Footwear Online High Street Fashion Shoes at \u003cb\u003eOffice\u003c/b\u003e UK",
+   "link": "http://www.office.co.uk/",
+   "displayLink": "www.office.co.uk",
+   "snippet": "Office Shoes online shoe shop, presenting all the latest high street fashion \nfootwear trends- free delivery.",
+   "htmlSnippet": "\u003cb\u003eOffice\u003c/b\u003e Shoes online shoe shop, presenting all the latest high street fashion \u003cbr\u003e\nfootwear trends- free delivery.",
+   "cacheId": "2Okt61Wrj1cJ",
+   "formattedUrl": "www.office.co.uk/",
+   "htmlFormattedUrl": "www.\u003cb\u003eoffice\u003c/b\u003e.co.uk/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.office.co.uk/assets/images/home/Sale_cats_Hero_uk.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "343",
+      "height": "147",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9pFjDxafCcNUXEwBrQtCHyzNxA9KXJ9-wL_iE2NZv0u4OnaiaL0idBIYu"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Shoes & Footwear Online High Street Fashion Shoes at Office UK",
+      "og:description": "Office Shoes online shoe shop, presenting all the latest high street fashion footwear trends- free delivery."
+     }
+    ]
+   }
+  }
+ ]
+}
