@@ -46,6 +46,11 @@ public class DebugAppModule {
         }
     }
 
+    @Provides @Singleton @Named("customsearch")
+    public RestAdapter.LogLevel provideCustomSearchLogLevel() {
+        return RestAdapter.LogLevel.FULL;
+    }
+
     @Provides
     SearchOptionsItemSelectedStrategy provideSearchOptionsItemSelectedStrategy(
             DebugSearchOptionsItemSelectedStrategy itemSelectedStrategy) {

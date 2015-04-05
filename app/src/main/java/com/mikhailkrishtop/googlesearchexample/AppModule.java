@@ -48,10 +48,11 @@ public final class AppModule {
 
     @Provides @Singleton @Named("customsearch")
     public RestAdapter.Builder provideRestAdapterBuilder(
-            @Named("customsearch") Endpoint endpoint, @Named("customsearch") Gson gson) {
+            @Named("customsearch") Endpoint endpoint, @Named("customsearch") Gson gson,
+            @Named("customsearch") RestAdapter.LogLevel logLevel) {
         return new RestAdapter.Builder()
                 .setEndpoint(endpoint)
-                .setLogLevel(RestAdapter.LogLevel.FULL)
+                .setLogLevel(logLevel)
                 .setConverter(new GsonConverter(gson));
     }
 
@@ -65,6 +66,11 @@ public final class AppModule {
         return new GsonBuilder()
                 .excludeFieldsWithoutExposeAnnotation()
                 .create();
+    }
+
+    @Provides @Singleton @Named("customsearch")
+    public RestAdapter.LogLevel provideCustomSearchLogLevel() {
+        return RestAdapter.LogLevel.NONE;
     }
 
     @Provides
